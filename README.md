@@ -1,13 +1,23 @@
-# ✨ Sobre mí
+## Hola, soy Natalia 👋
 
-¡Hola! Soy Natalia 👋
-Actualmente estoy dando mis primeros pasos en el mundo del desarrollo backend con Java, como parte de la formación Oracle + Alura.
-Aunque todavía estoy aprendiendo lo básico, disfruto mucho resolver ejercicios de lógica y entender cómo funcionan las cosas "por dentro".
+Back-end Developer en formación | Java & Spring Boot  🚀
 
-También estoy explorando el fascinante mundo de la inteligencia artificial 🤖. Trabajo mucho con herramientas como ChatGPT y Claude.AI, he aprendido a redactar prompts efectivos para aprovechar al máximo sus capacidades. Es un camino nuevo, pero cada día me entusiasma más.
+Me encuentro en una etapa muy activa de aprendizaje, construyendo proyectos reales y trabajando en equipo.  
+Me adapto rápido, disfruto resolver problemas y creo mucho en la comunicación clara como base para que las cosas funcionen.
 
-Mi objetivo por ahora es aprender con constancia, documentar mi proceso y algún día mirar atrás y decir: "todo ese esfuerzo valió la pena".
+💻 En lo técnico, trabajo principalmente con:
+- Desarrollo de APIs REST
+- Java + Spring Boot
+- JPA / Hibernate
+- Modelado de entidades y lógica de negocio
+- Git & GitHub para trabajo colaborativo
 
-🧠 Siempre aprendiendo, equivocándome con estilo y volviendo a intentarlo. <br/>
-☕ Acompañada de café y una buena playlist de fondo. <br/>
-📚 Mi curiosidad me tiene constantemente con un libro en la mano.
+📌 Proyecto personal:
+**Libralia**  
+Aplicación backend para una **plataforma social de bibliotecas personales**, pensada para personas amantes de la lectura.  
+Permite a los usuarios organizar sus libros, estados de lectura y compartir su experiencia lectora.  
+(No es una librería técnica ni un gestor de dependencias 😉).
+
+✨ Me gusta aprender construyendo, documentar el proceso y aportar desde lo técnico y lo humano en los equipos de trabajo.
+
+☕ Aprendo mejor con café, buena música y conversaciones honestas.
