@@ -16,7 +16,6 @@ Me adapto rápido, disfruto resolver problemas y creo mucho en la comunicación 
 **Libralia**  
 Aplicación backend para una **plataforma social de bibliotecas personales**, pensada para personas amantes de la lectura.  
 Permite a los usuarios organizar sus libros, estados de lectura y compartir su experiencia lectora.  
-(No es una librería técnica ni un gestor de dependencias 😉).
 
 ✨ Me gusta aprender construyendo, documentar el proceso y aportar desde lo técnico y lo humano en los equipos de trabajo.
 
